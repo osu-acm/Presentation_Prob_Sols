@@ -1,4 +1,6 @@
 class Solution:
+    # https://leetcode.com/problems/two-sum/
+
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         d = {}
         for idx, curr_num in enumerate(nums):

@@ -1,7 +1,7 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         """
-        https://leetcode.com/problems/3sum-closest/submissions/
+        https://leetcode.com/problems/3sum-closest/
 
         Story:
         Find three numbers that sum closest to target.
