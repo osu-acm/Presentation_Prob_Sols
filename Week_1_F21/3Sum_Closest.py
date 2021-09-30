@@ -11,7 +11,7 @@ class Solution:
         sort numbers
         for i loop first number
             l = i + 1
-			r = len(nums)
+	    r = len(nums)
             iterate l++ if sum < target
             else iterate r-- if sum > target
         
